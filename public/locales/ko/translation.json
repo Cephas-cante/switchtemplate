@@ -1,0 +1,133 @@
+{
+    "header":{
+        "1": "Elecar",
+        "2": "Home",
+        "3": "About",
+        "4": "Popular",
+        "5": "Featured"
+    },
+    "homemain":{
+        "1": "Choose the best car",
+        "2": "Porsche Mission E",
+        "3": "Electric Car",
+        "4": "24°",
+        "5": "TEMPERATURE",
+        "6": "873",
+        "7": "MILEAGE",
+        "8": "94%",
+        "9": "Battery"
+    },
+    "about":{
+        "1": "2500+",
+        "2": "Supercharges placed along popular routes",
+        "3": "Machines with",
+        "4": "future technology",
+        "5": "See the future with high-performance eletric cars produced by renowned bands. They feature futuristic builds and designs with new and innovative platforms that last a long time"
+    },
+    "popular":{
+        "1": "Choose your Electric car",
+        "2": "of the Porche brand",
+        "3": "3.7 Sec",
+        "4": "356 Km/h",
+        "5": "Electric",
+        "value": {
+            "1": "Porshe",
+            "2": "Turbo S",
+            "3": "$175,900",
+            "4": "Tayman",
+            "5": "Turbo S cross",
+            "6": "Boxter 718",
+            "7": "Cayman",
+            "8": "$114,900",
+            "9": "$150,900",
+            "10": "$125,900",
+            "11": "$128,900"
+        }
+    },
+        "features": {
+            "1": {
+                "1": "800v",
+                "2":{
+                    "1": "Turbo",
+                    "2": "Chargin"
+                }
+            },
+            "2": {
+                "1": "350",
+                "2":{
+                    "1": "Km",
+                    "2": "Range"
+                }
+            },
+            "3": {
+                "1": "480",
+                "2":{
+                    "1": "Km",
+                    "2": "Travel"
+                }
+            }
+        },
+        "featured": {
+            "title": "Featured Luxury Cars",
+            "all": "All",
+            "1": {
+                "name": "Tesla",
+                "type": "Model X",
+                "price": "$98,000"
+            },
+            "2": {
+                "name": "Tesla",
+                "type": "Model 3",
+                "price": "$45,900"
+            },
+            "3": {
+                "name": "Audi",
+                "type": "E-tron",
+                "price": "$175,900"
+            },
+            "4": {
+                "name": "Porsche",
+                "type": "Boxster 987",
+                "price": "$126,900"
+            },
+            "5": {
+                "name": "Porsche",
+                "type": "Panamera",
+                "price": "$126,900"
+            }
+        },
+        "offer": {
+            "1": {
+                "1": "Do you want to receive",
+                "2": "Special Offers?"
+            },
+            "2": {
+                "1": "Be the first to receive all the information about our products and new cars by email by subscribing to our email list",
+                "2": "Subscribe Now"
+            }
+        },
+        "footer": {
+            "desc": {
+                "1": "We offer the best eletric cars of",
+                "2": "the most recognise brands in",
+                "3": "the world"
+            },
+            "title": {
+                "1": "Company",
+                "2": "About",
+                "3": "Cars",
+                "4": "History",
+                "5": "Shop"
+            },
+            "info": {
+                "1": "Information",
+                "2": "Request a route",
+                "3": "Find a dealer",
+                "4": "Contact Us",
+                "5": "Services"
+            },
+            "follow": {
+                "1": "Follow Us"
+            }
+        }
+}
